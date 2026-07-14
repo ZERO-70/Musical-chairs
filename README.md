@@ -190,6 +190,4 @@ npm test -- --watchAll=false
 
 ## License
 
-No license file is currently present in the repository.
-
-**TODO:** Add a `LICENSE` file and update this section with the chosen license.
+This project is open source and available under the MIT License.
